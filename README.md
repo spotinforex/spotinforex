@@ -16,7 +16,7 @@
 ## 🔥 About Me
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=36BCF7&width=700&lines=Turning+data+into+insight.;Building+with+logic+and+curiosity.;Believing+data+can+make+the+world+better." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=36BCF7&width=700&lines=Believing+data+can+make+the+world+better.;Fascinated+about+AI.;Building+with+logic+and+curiosity." />
 </p>
 
 ---
