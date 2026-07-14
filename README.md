@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Nwabeke Praisejah</h1>
 
 <p align="center">
-  <b>AI Engineer · Data Enthusiast · Problem Solver</b>
+  <b>AI Engineer · Data Lover · Problem Solver · Automation Expert</b>
 </p>
 
 <p align="center">
