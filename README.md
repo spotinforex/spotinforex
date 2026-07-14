@@ -28,7 +28,7 @@
     <a href="https://twitter.com/spotpraise" target="_blank">
       <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
     </a>
-    <a href="https://www.linkedin.com/in/praisejahnwabeke" target="_blank">
+    <a href="www.linkedin.com/in/praisejah-nwabeke-7497962b9" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:nwabekepraisejah@gmail.com">
